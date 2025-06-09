@@ -6,7 +6,7 @@ L_1 := \{ w \mid w \in \{a, b\}^* \text{ und } w \text{ enthält } aa \text{ ode
 ```
 
 **Bemerkung:** Ein Wort $v$ ist ein *Infix* von $w$, falls es Wörter $u, x \in \{a, b\}^*$ gibt, sodass  
-$w = u v x $ gilt
+$w = u v x$ gilt
 
 ---
 
